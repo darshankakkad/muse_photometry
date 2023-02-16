@@ -1,0 +1,24 @@
+{
+ "phot_bands":[
+     {
+         "band":"B",
+         "cenwave":4450,
+         "bandwidth":940
+     },
+     {
+         "band":"G",
+         "cenwave":4640,
+         "bandwidth":1280
+     },
+     {
+         "band":"V",
+         "cenwave":5510,
+         "bandwidth":880
+     },
+     {
+         "band":"R",
+         "cenwave":6580,
+         "bandwidth":1380
+     }
+  ]
+}
